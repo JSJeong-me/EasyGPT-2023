@@ -30,3 +30,15 @@
     6. 재무제표 분석(예제)
 
 `````
+`````
+### ChatGPT Plugins  ->     https://openai.com/blog/chatgpt-plugins
+  1. AskYourPDF ->     https://askyourpdf.com/
+  2. VideoInsights.io ->   https://www.videoinsights.io/
+  3. Web Requests ->    https://www.whatplugin.ai/plugins/web-requests
+  4. Wolfram ->     https://www.wolframalpha.com/
+  5. Browsing ->    https://openai.com/blog/chatgpt-plugins#browsing
+  6. Code interpreter
+      Solving mathematical problems, both quantitative and qualitative
+      Doing data analysis and visualization
+      Converting files between formats
+`````
