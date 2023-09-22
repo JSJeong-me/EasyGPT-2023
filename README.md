@@ -1,4 +1,4 @@
-# EasyGPT-2023   (비전공자도 이해할 수 있는) 생성형 AI 이해와 업무 활용
+# (비전공자도 이해할 수 있는) 생성형 AI 이해와 업무 활용
 
 ### 강의교안:        https://buly.kr/5f8yxlY
 ### WorkSheet:        https://buly.kr/HHYzhe2
