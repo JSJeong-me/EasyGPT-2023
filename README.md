@@ -31,6 +31,15 @@
 
 `````
 `````
+    Google Chrome 확장 프로그램 가기 ->  https://workspace.google.com/marketplace
+    오늘 사용할 확장프로그램
+    1. ChatGPT File Uploader ->   https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf
+    2. 프롬프트 지니: ChatGPT 자동 번역기 ->   https://chrome.google.com/webstore/detail/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%A7%80%EB%8B%88-chatgpt-%EC%9E%90%EB%8F%99-%EB%B2%88%EC%97%AD%EA%B8%B0/lhkgpdljnlplgbkonflbhifackjhjmdj?hl=ko
+    3. ChatGPT in Google Sheets™ and Docs™ ->  https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654
+    4. Voice Control for ChatGPT ->     https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn
+
+`````
+`````
     ChatGPT Plugins  ->     https://openai.com/blog/chatgpt-plugins
     1. AskYourPDF ->     https://askyourpdf.com/
     2. VideoInsights.io ->   https://www.videoinsights.io/
@@ -41,4 +50,5 @@
           Solving mathematical problems, both quantitative and qualitative
           Doing data analysis and visualization
           Converting files between formats
+
 `````
