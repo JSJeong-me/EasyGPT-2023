@@ -5,7 +5,9 @@
 
 
 `````
-![curriculum](https://github.com/JSJeong-me/EasyGPT-2023/assets/54794815/553d3021-7386-49d0-9f90-6ba6e0e1a6db)
+
+![curriculum](https://github.com/JSJeong-me/EasyGPT-2023/assets/54794815/7abf92dd-afe1-43e7-bfc6-e482b27a3282)
+
 
 
 `````
