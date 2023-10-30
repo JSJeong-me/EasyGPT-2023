@@ -4,6 +4,13 @@
 ### WorkSheet:        https://zrr.kr/Ed18
 
 
+`````
+![curriculum](https://github.com/JSJeong-me/EasyGPT-2023/assets/54794815/553d3021-7386-49d0-9f90-6ba6e0e1a6db)
+
+
+`````
+
+
 
 `````
     제목:  '(비전공자도 이해할 수 있는) 생성형 AI 이해와 업무 활용'
