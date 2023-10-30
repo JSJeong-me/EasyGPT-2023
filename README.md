@@ -4,13 +4,12 @@
 ### WorkSheet:        https://zrr.kr/Ed18
 
 
-`````
+
 
 ![curriculum](https://github.com/JSJeong-me/EasyGPT-2023/assets/54794815/7abf92dd-afe1-43e7-bfc6-e482b27a3282)
 
 
 
-`````
 
 
 
