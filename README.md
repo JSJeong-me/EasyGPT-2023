@@ -1,7 +1,7 @@
 # (비전공자도 이해할 수 있는) 생성형 AI 이해와 업무 활용
 
 ### 강의교안:        https://zrr.kr/dt2r    
-### WorkSheet:        
+### WorkSheet:        https://zrr.kr/9o1h
 
 `````
 □ 과정명 :비전공자도 이해하는 Chat GPT : ChatGPT를 활용해 업무혁신하기
