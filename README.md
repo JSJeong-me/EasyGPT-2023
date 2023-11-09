@@ -1,7 +1,7 @@
 # (비전공자도 이해할 수 있는) 생성형 AI 이해와 업무 활용
 
 ### 강의교안:        https://zrr.kr/5Xrq    
-### WorkSheet:        https://zrr.kr/9o1h
+### WorkSheet:        https://zrr.kr/147j
 
 `````
 □ 과정명 :비전공자도 이해할 수 있는 생성형 AI 이해와 업무 활용
