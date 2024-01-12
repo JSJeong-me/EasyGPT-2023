@@ -1,12 +1,12 @@
 # (비전공자도 이해할 수 있는) 생성형 AI 이해와 업무 활용
 
-### 강의교안:        https://lrl.kr/wrWt  
-### WorkSheet:        https://zrr.kr/oyIe
+### [강의교안](https://drive.google.com/file/d/1yJlTq-R23jCW7VMfJbxTCae8oEX03Rwx/view?usp=sharing)
+### [WorkSheet](https://docs.google.com/spreadsheets/d/1HpKXHq0X0m5rSX-rBfIiyTrVEpbMIzwRZv9ki8JDxYc/edit?usp=sharing)
 
 `````
 □ 과정명 :비전공자도 이해할 수 있는 생성형 AI 이해와 업무 활용
 
-□ 교육기간 : 12월 10일(일) (09:00 ~ 18:00, 점심시간 12:00~13:00) 
+□ 교육기간 : 1월 13일(일) (09:00 ~ 18:00, 점심시간 12:00~13:00) 
 
 □ 교육방법 : 집체 교육
 `````
